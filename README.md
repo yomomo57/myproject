@@ -1,3 +1,3 @@
 # myproject
 
-you are atomic too
+you are atomic too.
